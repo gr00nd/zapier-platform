@@ -44,7 +44,7 @@
     "@oclif/plugin-help": "3.2.2",
     "@oclif/plugin-not-found": "1.2.4",
     "adm-zip": "0.5.10",
-    "archiver": "5.3.1",
+    "archiver": "7.0.0",
     "browserify": "17.0.0",
     "cli-table3": "0.6.3",
     "colors": "1.4.0",
