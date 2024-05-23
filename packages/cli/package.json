@@ -38,8 +38,8 @@
     "validate": "yarn test && yarn smoke-test && yarn lint"
   },
   "dependencies": {
-    "@oclif/command": "1.8.27",
-    "@oclif/config": "1.18.10",
+    "@oclif/command": "1.8.36",
+    "@oclif/config": "1.18.17",
     "@oclif/plugin-autocomplete": "0.3.0",
     "@oclif/plugin-help": "3.2.2",
     "@oclif/plugin-not-found": "1.2.4",
