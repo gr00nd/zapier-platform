@@ -42,7 +42,7 @@
     "@oclif/config": "1.18.10",
     "@oclif/plugin-autocomplete": "0.3.0",
     "@oclif/plugin-help": "3.2.2",
-    "@oclif/plugin-not-found": "1.2.4",
+    "@oclif/plugin-not-found": "2.3.0",
     "adm-zip": "0.5.10",
     "archiver": "5.3.1",
     "browserify": "17.0.0",
@@ -71,7 +71,7 @@
     "traverse": "0.6.7",
     "update-notifier": "5.1.0",
     "yeoman-environment": "3.3.0",
-    "yeoman-generator": "5.9.0"
+    "yeoman-generator": "6.0.0"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.26.10",
