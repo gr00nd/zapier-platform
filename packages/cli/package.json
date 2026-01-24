@@ -38,11 +38,11 @@
     "validate": "yarn test && yarn smoke-test && yarn lint"
   },
   "dependencies": {
-    "@oclif/command": "1.8.27",
+    "@oclif/command": "1.8.36",
     "@oclif/config": "1.18.10",
     "@oclif/plugin-autocomplete": "0.3.0",
     "@oclif/plugin-help": "3.2.2",
-    "@oclif/plugin-not-found": "1.2.4",
+    "@oclif/plugin-not-found": "2.2.1",
     "adm-zip": "0.5.10",
     "archiver": "5.3.1",
     "browserify": "17.0.0",
@@ -56,7 +56,7 @@
     "inquirer": "8.2.5",
     "jscodeshift": "0.15.0",
     "klaw": "4.1.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "marked": "4.2.12",
     "marked-terminal": "5.2.0",
     "node-fetch": "2.6.7",
@@ -70,8 +70,8 @@
     "tmp": "0.2.1",
     "traverse": "0.6.7",
     "update-notifier": "5.1.0",
-    "yeoman-environment": "3.3.0",
-    "yeoman-generator": "5.9.0"
+    "yeoman-environment": "4.0.0",
+    "yeoman-generator": "6.0.0"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.26.10",
